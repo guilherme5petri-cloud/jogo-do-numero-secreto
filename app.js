@@ -1,6 +1,6 @@
 let listaNumerosJaChutados = [];
-let maximoDaLista = 50;
 
+let maximoDaLista = 100;
 // Variável para armazenar o número secreto
 let numeroSecreto = criarNumeroSecreto();
 
